@@ -1,5 +1,5 @@
 //抽奖人员名单
-var allPerson = "";
+var allPerson = "Hebe;Tommy;Nicky;Ivan";
 //领导人员名单
 var leaderArr = [];
 //未中奖人员名单
