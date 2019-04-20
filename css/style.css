@@ -340,3 +340,15 @@ body > div > footer > div > button#btnReset {
     padding: 0;
     display: inline-block;
 }
+
+.gdg {
+    position: absolute;
+    right: 160px;
+    bottom: -90px;
+}
+
+.wtm {
+    position: absolute;
+    left: 160px;
+    bottom: -110px;
+}
