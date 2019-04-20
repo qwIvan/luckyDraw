@@ -352,3 +352,7 @@ body > div > footer > div > button#btnReset {
     left: 160px;
     bottom: -110px;
 }
+
+.logo {
+    z-index: -100;
+}
