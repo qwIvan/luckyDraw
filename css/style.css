@@ -342,15 +342,15 @@ body > div > footer > div > button#btnReset {
 }
 
 .gdg {
-    position: relative;
-    bottom: -640px;
+    position: absolute;
+    right: 160px;
+    bottom: -90px;
 }
 
 .wtm {
     position: absolute;
     left: 160px;
     bottom: -110px;
-    display: none;
 }
 
 .logo {
