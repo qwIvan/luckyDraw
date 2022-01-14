@@ -166,7 +166,7 @@ body {
 body > div {
     background: url(img/bg.png) no-repeat;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     margin: -300px auto auto -400px;
     width: 800px;
@@ -343,8 +343,8 @@ body > div > footer > div > button#btnReset {
 
 .gdg {
     position: absolute;
-    right: 160px;
-    bottom: -90px;
+    right: 200px;
+    bottom: -120px;
 }
 
 .wtm {
