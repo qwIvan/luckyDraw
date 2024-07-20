@@ -43,7 +43,7 @@ $(function () {
             $("#luckyDrawing").val(luckyMan[luckyMan.length - 1]);//输入框显示最后一个中奖名字
             $("#result").fadeIn().find("div").removeClass().addClass("p" + luckyDrawNum);//隐藏输入框，显示中奖框
             $("#bgLuckyDrawEnd").addClass("bg");//添加中奖背景光辉
-            $("#txtNum").attr("placeholder", "输入中奖人数(" + remainPerson.length + ")");
+            $("#txtNum").attr("placeholder", "输入中奖人数");
         }
     });
 
